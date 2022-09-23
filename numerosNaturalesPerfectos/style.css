@@ -1,0 +1,21 @@
+
+h1{
+    color: rgb(211, 101, 101);    
+}
+
+body{
+        background-image:url(../img/imagen.jpg);
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+}
+
+span{
+    color: rgb(255, 255, 255);
+}
+
+@media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+      font-size: 3.5rem;
+       }
+}
